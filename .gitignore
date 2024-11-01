@@ -1,1 +1,9 @@
 # add files or directories to ignore them
+
+# section for virtual environment
+aghAiIoEnv/Include/
+aghAiIoEnv/Lib/
+aghAiIoEnv/Scripts/
+aghAiIoEnv/pyvenv.cfg
+
+# other 
