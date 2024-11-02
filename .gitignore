@@ -6,4 +6,5 @@ aghAiIoEnv/Lib/
 aghAiIoEnv/Scripts/
 aghAiIoEnv/pyvenv.cfg
 
-# other 
+# other
+Add Pylint badge to README 
